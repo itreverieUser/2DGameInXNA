@@ -1,0 +1,13 @@
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\ball.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\star.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Sound\explosionSound.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Font\StarFont.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\stars_background.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\explosion.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\RubbishContainer.exe
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\RubbishContainer.pdb
+C:\StarsAtack\StarsAtack\StarsAtack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\StarsAtack\StarsAtack\StarsAtack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\StarsAtack\StarsAtack\StarsAtack\obj\x86\Debug\RubbishContainer.exe
+C:\StarsAtack\StarsAtack\StarsAtack\obj\x86\Debug\RubbishContainer.pdb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\shootingCone.xnb

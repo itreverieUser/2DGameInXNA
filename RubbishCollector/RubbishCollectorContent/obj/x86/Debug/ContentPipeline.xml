@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Background.png</Source>
+      <Name>Images\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb</Output>
+      <Time>2011-05-11T17:12:46+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgroundv.png</Source>
+      <Name>Images\Backgroundv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb</Output>
+      <Time>2011-05-11T08:51:02+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bin1.png</Source>
+      <Name>Images\bin1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb</Output>
+      <Time>2011-05-12T19:27:22+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bin2.png</Source>
+      <Name>Images\bin2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb</Output>
+      <Time>2011-05-12T19:32:08+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bin3.png</Source>
+      <Name>Images\bin3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb</Output>
+      <Time>2011-05-12T19:36:36+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\cursor.png</Source>
+      <Name>Images\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb</Output>
+      <Time>2011-05-12T23:35:30+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Game over.png</Source>
+      <Name>Images\Game over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb</Output>
+      <Time>2011-05-12T15:38:24+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gameover.png</Source>
+      <Name>Images\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb</Output>
+      <Time>2011-05-12T16:03:20+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Organic\1.png</Source>
+      <Name>Images\RubbishObjects\Organic\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb</Output>
+      <Time>2011-05-13T17:32:52+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Organic\2.png</Source>
+      <Name>Images\RubbishObjects\Organic\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb</Output>
+      <Time>2011-05-13T17:32:24+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Organic\3.png</Source>
+      <Name>Images\RubbishObjects\Organic\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb</Output>
+      <Time>2011-05-13T17:31:10+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Organic\4.png</Source>
+      <Name>Images\RubbishObjects\Organic\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb</Output>
+      <Time>2011-05-13T17:32:24+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Organic\5.png</Source>
+      <Name>Images\RubbishObjects\Organic\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb</Output>
+      <Time>2011-05-13T17:31:42+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Organic\6.png</Source>
+      <Name>Images\RubbishObjects\Organic\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb</Output>
+      <Time>2011-05-13T17:31:10+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Organic\7.png</Source>
+      <Name>Images\RubbishObjects\Organic\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb</Output>
+      <Time>2011-05-13T17:31:42+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Plastic\1.png</Source>
+      <Name>Images\RubbishObjects\Plastic\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb</Output>
+      <Time>2011-05-13T17:34:00+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Plastic\2.png</Source>
+      <Name>Images\RubbishObjects\Plastic\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb</Output>
+      <Time>2011-05-13T17:36:28+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Plastic\3.png</Source>
+      <Name>Images\RubbishObjects\Plastic\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb</Output>
+      <Time>2011-05-13T17:36:40+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Plastic\4.png</Source>
+      <Name>Images\RubbishObjects\Plastic\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb</Output>
+      <Time>2011-05-13T17:37:06+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Plastic\5.png</Source>
+      <Name>Images\RubbishObjects\Plastic\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb</Output>
+      <Time>2011-05-13T17:35:54+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Plastic\6.png</Source>
+      <Name>Images\RubbishObjects\Plastic\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb</Output>
+      <Time>2011-05-13T17:34:00+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Plastic\7.png</Source>
+      <Name>Images\RubbishObjects\Plastic\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb</Output>
+      <Time>2011-05-13T17:36:40+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Steel\1.png</Source>
+      <Name>Images\RubbishObjects\Steel\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb</Output>
+      <Time>2011-05-13T17:38:14+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Steel\2.png</Source>
+      <Name>Images\RubbishObjects\Steel\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb</Output>
+      <Time>2011-05-13T17:38:28+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Steel\3.png</Source>
+      <Name>Images\RubbishObjects\Steel\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb</Output>
+      <Time>2011-05-13T17:38:14+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Steel\4.png</Source>
+      <Name>Images\RubbishObjects\Steel\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb</Output>
+      <Time>2011-05-13T17:38:28+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Steel\5.png</Source>
+      <Name>Images\RubbishObjects\Steel\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb</Output>
+      <Time>2011-05-13T17:38:14+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Steel\6.png</Source>
+      <Name>Images\RubbishObjects\Steel\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb</Output>
+      <Time>2011-05-13T17:38:28+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\RubbishObjects\Steel\7.png</Source>
+      <Name>Images\RubbishObjects\Steel\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb</Output>
+      <Time>2011-05-13T17:38:14+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\startScreen.png</Source>
+      <Name>Images\startScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb</Output>
+      <Time>2011-05-15T21:44:58+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\transition.png</Source>
+      <Name>Images\transition</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\transition.xnb</Output>
+      <Time>2011-05-15T22:17:40+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ufo.png</Source>
+      <Name>Images\ufo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb</Output>
+      <Time>2011-05-13T12:16:54+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bin\bin1.png</Source>
+      <Name>Images\bin\bin1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin1.xnb</Output>
+      <Time>2011-05-12T19:27:22+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bin\bin2.png</Source>
+      <Name>Images\bin\bin2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin2.xnb</Output>
+      <Time>2011-05-12T19:32:08+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bin\bin3.png</Source>
+      <Name>Images\bin\bin3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin3.xnb</Output>
+      <Time>2011-05-12T19:36:36+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AssistanceButtons\bottom.png</Source>
+      <Name>Images\AssistanceButtons\bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\bottom.xnb</Output>
+      <Time>2011-05-13T16:55:08+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AssistanceButtons\left.png</Source>
+      <Name>Images\AssistanceButtons\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\left.xnb</Output>
+      <Time>2011-05-13T17:01:02+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AssistanceButtons\right.png</Source>
+      <Name>Images\AssistanceButtons\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\right.xnb</Output>
+      <Time>2011-05-16T23:37:50+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\help.png</Source>
+      <Name>Images\help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\help.xnb</Output>
+      <Time>2011-05-17T00:06:22+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\StarFont.spritefont</Source>
+      <Name>Font\StarFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb</Output>
+      <Time>2011-05-16T23:43:14+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\BackgoundSound.wav</Source>
+      <Name>Sound\BackgoundSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb</Output>
+      <Time>2011-05-16T21:27:52+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\gameover.wav</Source>
+      <Name>Sound\gameover</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\gameover.xnb</Output>
+      <Time>2011-05-16T21:28:32+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\select.wav</Source>
+      <Name>Sound\select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\select.xnb</Output>
+      <Time>2011-05-16T21:40:24+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\start.wav</Source>
+      <Name>Sound\start</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\start.xnb</Output>
+      <Time>2011-05-16T21:40:44+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\ufoGetsObj.wav</Source>
+      <Name>Sound\ufoGetsObj</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\ufoGetsObj.xnb</Output>
+      <Time>2011-05-16T21:41:04+10:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\wave.wav</Source>
+      <Name>Sound\wave</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\wave.xnb</Output>
+      <Time>2011-05-16T21:41:18+10:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollectorContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollectorContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-20T14:13:44.8486429+10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

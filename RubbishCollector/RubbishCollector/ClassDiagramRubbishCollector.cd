@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RubbishCollector.GameRubbishCollector" Collapsed="true">
+    <Position X="8" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAwAAAAAAAAAAAAAAAAACAAAAAAAAAQQ=</HashCode>
+      <FileName>GameRubbishCollector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Windows.StartScreen" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAggAgQAAAAIAAAAAAAAABAIAAAABAAAQ=</HashCode>
+      <FileName>Windows\StartScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Windows.WindowManager" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="RubbishCollector.Windows.WindowManager.GameStates" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Windows\WindowManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAQAIAAACBAAgiAQIAABABBEAAAAAAAggICAACBAAAQ=</HashCode>
+      <FileName>Windows\WindowManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Background.Background" Collapsed="true">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAUAQBAAAgAAAAABAAAAAAAAAAAgACAAAAABAAA=</HashCode>
+      <FileName>Util\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Background.ScrollBackGround" Collapsed="true">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAgAgAAkAJgAAAAEAAAAAIAAAAgIAAAABAAAAAAA=</HashCode>
+      <FileName>Util\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Gameover.Gameover" Collapsed="true">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAQAAAAAABAAAAAAAAAAIAAAABAAAQ=</HashCode>
+      <FileName>Windows\Gameover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Util.MouseObject" Collapsed="true">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQBgAAAAUAIIgAgAAAAAgAAwAQQAAAAAAIIgAAAACA=</HashCode>
+      <FileName>Util\Mouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Managers.CollisionManager" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAEAAAAACAAAAAQAAAAAAAAAAAEAAAAAEAA=</HashCode>
+      <FileName>Managers\CollisionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Managers.LevelManager" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIBAAAAAAQAAEBAAAAAAAAAAAgAEAAAAAACAAAgBAAA=</HashCode>
+      <FileName>Managers\LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Level.Level" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQiAgwAQBCCwwIAGAApAARBgIIAYIAgRKBABwQAAAQ=</HashCode>
+      <FileName>Level\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Help.Help" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAIAAAABAAAQ=</HashCode>
+      <FileName>Windows\Help.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Util.Sound" Collapsed="true">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgYgIIAAAAAAQABAAAAAAAIEAAAAEAAAAAAAAEgAIA=</HashCode>
+      <FileName>Util\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Util.Sprite" Collapsed="true">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAgAAIAgAAAAAAAAAAABAABAAAAAAAgEAAA=</HashCode>
+      <FileName>Util\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Util.Text" Collapsed="true">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEAAAAAABBAAAAAAAAgAIAAAAAAAAQ=</HashCode>
+      <FileName>Util\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Transition.transition" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAIAAAABAAAQ=</HashCode>
+      <FileName>Windows\transition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Object.Item" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAIAAAABAAAAGCBAAAAAAAEQIAAAEAAAACAAAA=</HashCode>
+      <FileName>Object\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Object.Ufo" Collapsed="true">
+    <Position X="11.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAggAAQAAAAAAACAAICAABAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Object\ufo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RubbishCollector.Object.Wave" Collapsed="true">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAAAAAAACAgAAAAQAIAAAAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Object\Wave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

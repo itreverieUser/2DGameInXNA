@@ -1,0 +1,1 @@
+c:\StarsAtack\StarsAtack\StarsAtackContent\obj\x86\Debug\ResolveAssemblyReference.cache

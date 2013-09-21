@@ -1,0 +1,1137 @@
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\ball.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\explosion.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\star.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\stars_background.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Sound\explosionSound.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Font\StarFont.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\Content\Images\shootingCone.xnb
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\RubbishCollector.exe
+C:\StarsAtack\StarsAtack\StarsAtack\bin\x86\Debug\RubbishCollector.pdb
+C:\StarsAtack\StarsAtack\StarsAtack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\StarsAtack\StarsAtack\StarsAtack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\StarsAtack\StarsAtack\StarsAtack\obj\x86\Debug\RubbishCollector.exe
+C:\StarsAtack\StarsAtack\StarsAtack\obj\x86\Debug\RubbishCollector.pdb
+C:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+C:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+C:\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+C:\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+C:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+C:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+C:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\pop-can.xnb
+F:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+F:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+F:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\pop-can.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+C:\Users\Bren\Desktop\Semester3\GamesProgramming\Assignment\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Monday\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 11May4.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+C:\Users\D\Desktop\RubbishCollector - 12May7.48\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+G:\RubbishCollector- 13May 1.23\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+C:\Users\D\Desktop\New folder\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May2.10\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector - 13May5\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\10.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\11.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\12.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\13.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\14.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\15.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\8.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector - 13May1.23 pm\RubbishCollector- 13May 2.0\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\9.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\10.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\11.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\12.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\13.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\14.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\15.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\6.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\7.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\8.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\9.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector- 13May 3.51pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\10.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\11.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\12.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\13.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\14.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\15.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\8.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\9.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.50pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May 4.57pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13MayDEMO\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May9.30PM\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\Monday\RubbishCollector- 13May11.25\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May3.25pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May5.0pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 15May8.53pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Study\2011\Game Programming Techniques (7160), Semester 1, 2011\FinalAssignment\RubbishCollector- 15May9.59pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\explosionSound.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\goodjob.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\newgar.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Exit.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Help.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\Pause.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.wma
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\transition.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin1.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin2.xnb
+F:\RubbishCollector- 15May11.33pm\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin3.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\transition.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin1.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin2.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin3.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\gameover.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\select.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\wave.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\start.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\ufoGetsObj.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\bottom.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\left.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\right.xnb
+F:\RubbishCollector- 16May12.25am\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\help.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\transition.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin1.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin2.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin3.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\bottom.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\left.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\right.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\help.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\gameover.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\select.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\start.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\ufoGetsObj.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\wave.xnb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\Brenda\Canberra\UC\Semester3\GamesProgramming\GamesProgramming\RubbishCollector- Final\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\transition.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin1.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin2.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin3.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\bottom.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\left.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\right.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\help.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\BackgoundSound.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\gameover.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\select.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\start.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\ufoGetsObj.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\wave.xnb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.csprojResolveAssemblyReference.cache
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\backup\RubbishCollector- Final\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Background.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Backgroundv.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin1.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin2.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin3.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\cursor.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\Game over.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\gameover.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\1.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\2.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\3.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\4.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\5.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\6.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Organic\7.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\1.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\2.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\3.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\4.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\5.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\6.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Plastic\7.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\1.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\2.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\3.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\4.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\5.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\6.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\RubbishObjects\Steel\7.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\startScreen.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\transition.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\ufo.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin1.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin2.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\bin\bin3.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\bottom.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\left.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\AssistanceButtons\right.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Images\help.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Font\StarFont.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\gameover.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\select.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\start.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\ufoGetsObj.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\Content\Sound\wave.xnb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe.config
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.exe
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\bin\x86\Debug\RubbishCollector.pdb
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.csprojResolveAssemblyReference.cache
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.exe
+D:\IT-Reverie\Articles\ITArticles\RubishCollector\RubbishCollector-SourceCode\RubbishCollector\RubbishCollector\obj\x86\Debug\RubbishCollector.pdb
